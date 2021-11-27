@@ -1,2 +1,2 @@
 # docker-lessons
-EPAM docker lessons
+EPAM docker lessons.

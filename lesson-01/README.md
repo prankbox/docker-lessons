@@ -5,7 +5,8 @@ Clone the repo:
 ```
 git clone https://github.com/prankbox/docker-lessons.git
 cd lesson-01
-``
+```
+
 To build the image run:
 ```
 docker build -t docker-lesson:0.1 .
